@@ -4,10 +4,7 @@ Nov 13, 2018 5:14:30 PM org.apache.catalina.startup.Catalina start
 INFO: Server startup in 864 ms
 
 Some changes in develop
-<<<<<<< HEAD
 Some more development changes
-=======
 
 killer feature is added
 killer feature is complete
->>>>>>> feature/Killer_feature
